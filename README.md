@@ -50,4 +50,3 @@ python reminder.py
 
 * **Spencer Neveux** - *Sole Developer* 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
