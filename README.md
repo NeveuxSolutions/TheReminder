@@ -6,9 +6,7 @@ The inspiration for this project came from an incident that happened while I was
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-Dependent Libraries
+### Prerequisites - Dependent Libraries
 
 First install - TinyDB
 
@@ -23,45 +21,25 @@ pip install yagmail
 ```
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Navigate to the desired path 
 
 ```
-Give the example
+cd /desired_path
 ```
 
-And repeat
+Clone the repository
 
 ```
-until finished
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+## Running the program
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Now simply run the python script
 
 ```
-Give an example
+python reminder.py
 ```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
